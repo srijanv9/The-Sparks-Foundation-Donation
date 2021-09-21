@@ -8,10 +8,12 @@ click to view: https://srijanv9.github.io/The-Sparks-Foundation-Donation/
 - Payment Gateway included
 - Mobile optimised 
 
-## About TSF
-The sparks foundation is working to bring parity in education, making sure children have equal opportunity at success, irrespective of the financial background.
 
-
+##Tech
 - [HTML] - HTML enhanced for web apps!
 - [CSS] - awesome web-based text editor
 - [Java Script] - Markdown parser done right. Fast and easy to extend.
+
+
+## About TSF
+The sparks foundation is working to bring parity in education, making sure children have equal opportunity at success, irrespective of the financial background.
